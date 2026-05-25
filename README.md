@@ -17,7 +17,9 @@
   <a href="https://github.com/Radit-lab/opencode-android"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
   <a href="https://github.com/Radit-lab/opencode-android/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Radit-lab/opencode-android" alt="License"></a>
   <a href="https://opencode.ai"><img src="https://img.shields.io/badge/powered%20by-OpenCode-6C5CE7" alt="Powered by OpenCode"></a>
+  <a href="https://github.com/Radit-lab/opencode-android/stargazers"><img src="https://img.shields.io/github/stars/Radit-lab/opencode-android?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/Radit-lab/opencode-android"><img src="https://img.shields.io/badge/maintained%20by-Radit--lab-blue" alt="Maintained by"></a>
+  <a href="https://github.com/Radit-lab/opencode-android"><img src="https://img.shields.io/github/repo-size/Radit-lab/opencode-android" alt="Repo size"></a>
 </p>
 
 <p align="center">
@@ -200,11 +202,33 @@ No emulation. No virtualization. Just a thin translation layer.
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Radit-lab/opencode-android&type=Date)](https://star-history.com/#Radit-lab/opencode-android&Date)
+
+---
+
+## Spread the Word
+
+Help others discover this project! A star helps a lot.
+
+```bash
+echo "Run OpenCode natively on Android via Termux — no emulators needed 🚀" && \
+echo "https://github.com/Radit-lab/opencode-android"
+```
+
+Share it on:
+- **Reddit** — [r/termux](https://reddit.com/r/termux), [r/androiddev](https://reddit.com/r/androiddev)
+- **Twitter/X** — Tag [@opencode](https://twitter.com/opencode)
+- **Dev.to** — Write a short tutorial with a link back
+
+---
+
 ## Credits
 
 - [OpenCode](https://opencode.ai) — The AI coding agent that powers this
 - [Hope2333/opencode-termux](https://github.com/Hope2333/opencode-termux) — The Termux build system
-- **Radit-lab** — Guide and automation scripts
+- **Radit-lab** — Guide, automation scripts, and native Android port
 
 ---
 
