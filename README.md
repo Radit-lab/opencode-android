@@ -20,6 +20,12 @@
   <a href="https://github.com/Radit-lab/opencode-android"><img src="https://img.shields.io/badge/maintained%20by-Radit--lab-blue" alt="Maintained by"></a>
 </p>
 
+<p align="center">
+  <img src="preview.jpg" alt="OpenCode running natively in Termux on Android" width="720">
+  <br>
+  <em>OpenCode running natively in Termux on Android — no emulators</em>
+</p>
+
 ---
 
 ## What This Is
